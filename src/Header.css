@@ -1,0 +1,5 @@
+.active {
+ border-bottom: 2px solid #cd99d4;
+ color: white;
+ transition: all ease-in-out;
+}
