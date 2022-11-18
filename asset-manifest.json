@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moboapp/static/css/main.c32c0e62.css",
-    "main.js": "/moboapp/static/js/main.fe7b4156.js",
+    "main.css": "/moboapp/static/css/main.3295b62c.css",
+    "main.js": "/moboapp/static/js/main.36edb7d4.js",
     "static/js/787.45e01438.chunk.js": "/moboapp/static/js/787.45e01438.chunk.js",
     "index.html": "/moboapp/index.html",
-    "main.c32c0e62.css.map": "/moboapp/static/css/main.c32c0e62.css.map",
-    "main.fe7b4156.js.map": "/moboapp/static/js/main.fe7b4156.js.map",
+    "main.3295b62c.css.map": "/moboapp/static/css/main.3295b62c.css.map",
+    "main.36edb7d4.js.map": "/moboapp/static/js/main.36edb7d4.js.map",
     "787.45e01438.chunk.js.map": "/moboapp/static/js/787.45e01438.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c32c0e62.css",
-    "static/js/main.fe7b4156.js"
+    "static/css/main.3295b62c.css",
+    "static/js/main.36edb7d4.js"
   ]
 }
