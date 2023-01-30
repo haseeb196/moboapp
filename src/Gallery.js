@@ -5,10 +5,6 @@ import {  Pagination, Autoplay, Zoom, A11y } from 'swiper';
 import 'swiper/css'
 import 'swiper/css/bundle'
 
-
-
-
-
 function Gallery() {
 
   return (
@@ -16,7 +12,7 @@ function Gallery() {
     <div className='flex flex-col items-center justify-center bg-[#faf6fb] p-[80px]'>
     <div>
       <p className='uppercase text-gray-500 text-center'>Gallery</p>
-      <h2 className='text-[40px] text-[#633991] capitalize' >app screenshots</h2>
+      <h2 className='md:text-[40px] sm:text-[35px] text-center text-[#633991] capitalize' >app screenshots</h2>
     </div>
     <div  className='sm:w-[300px] xl:w-[1000px] md:w-[700px] flex flex-row items-center justify-center pt-8 transition-all'> 
     <Swiper  modules={[Pagination, Autoplay, Zoom, A11y ]}

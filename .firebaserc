@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "moboapp-44b89"
-  }
+    "default": "moboapp-693b1"
+  },
+  "targets": {},
+  "etags": {}
 }

@@ -21,7 +21,7 @@ const onScroll = () => {
  })
   return (
  <div className={`flex ${media ? 'justify-between' : 'justify-evenly'} items-center bg-gradient-to-r ${wee ? 'sm:py-2 xl:py-4 md:py-4 from-[#7e3bbf] to-[#e70095]' : 'py-7 from-[#673a92] to-[#c73592]'} sticky top-0   transition-all z-[100] ${media ? 'px-7' : 'px-0'}`}>
-   <motion.div  initial={{x: media ? -200 : -390, opacity : 0}} animate={{x:0, opacity : 1}} transition={{duration : media ? 0.5 : 1}} className="header__title mr-4">
+   <motion.div  initial={{x: media ? -200 : -390, opacity : 0}} animate={{x:0, opacity : 1}} transition={{duration : media ? 0.7 : 1}} className="header__title mr-4">
    <img className='bg-tranparent w-[85px]'  src="data:image/webp;base64,UklGRsIBAABXRUJQVlA4TLYBAAAvZgAEEH8gFkzmL90Xw/zPv0AghRt0D1DDABdAbm1bzxodvDcNuAoG0vFTgVAHkE2ICcdRgmw25qcDqQOfSx38i2wyPCzp4+cG3/fLdBDR/wkwGYDzA6Af6EcElpL0FmBfagMjSTpLwaMkfQPz2Vp7sC9JeyFKAOfSBXBuyY9hLH3EXFiBB8uLGLeKsixB3VSBuaRomKohk4hRHDryYJuHcpB1MG8DG0kpB/WthhiVuJZSZpeDse/RVALY1FzTLhAoUMHFQheOppQz/7uw+e3RUQRYtFyLNnyR1mqFTOU7kArmq095d+rRE8Cs66hvC3Cou0t5IQvdOZpS3qSC5OHZoUfPt6ZdlpLkR2GsYU+TiKO51YHjRkqb1Loyb7xEDNZq1KWkZb/ByJ5ETep++JB5Rgm+bCtglMMoFzKJh+xhUl+kqCVr5mI8pC6l2KjhOkvh+gYmhTng0KOjCLBouUYX9OQcWjiNStgmxaJiNZUANrUn3Lv8FwKLIA/lIOcaH7B0Kf4qq4sYt4o5yqbBg2pQljKv0pOkNixlJ8s7ZYFHVV/uABjs9DMS8pYvUhxYqjXSxPWoogM=" alt="" color/>
    </motion.div>
    { media  ?  (<Menu />)
