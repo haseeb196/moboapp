@@ -1,4 +1,4 @@
-![alt text](https://moboapp-693b1.web.app/screenshot.png)
+![moboapp](https://moboapp-693b1.web.app/screenshot.png)
 
 # Mobile App Template Project
 
