@@ -1,4 +1,4 @@
-![moboapp](https://moboapp-693b1.web.app/screenshot.png)
+![moboapp](https://moboapp-693b1.web.app/mobo-logo.png)
 
 # Mobile App Template Project
 
