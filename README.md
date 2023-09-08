@@ -2,7 +2,7 @@
 
 # Mobile App Template Project
 
-This project is a Mobile App Template built using ReactJS, Firebase, Tailwind, MUI, Framer Motion.
+This project is a Mobile App Template built using ReactJS, Tailwind, MUI, Framer Motion.
 
 ## Installation
 
